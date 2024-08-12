@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 I’m the student of BSIT. <br>👯 I’m looking to collaborate on Machine Learning Projects. <br>🌱 I’m currently learning Machine Learning. <br>💬 Ask me about Machine Learning. It will be pleasure for me  to help you. 
+👦 I’m the student of BSIT. <br>👯 Looking to collaborate on Machine Learning Projects. <br>🌱 Currently learning Machine Learning. <br>💬 Ask me about Machine Learning. It will be pleasure for me  to help you. 
 
 
 ## 🌐 Socials:
